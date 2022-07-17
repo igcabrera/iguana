@@ -1,0 +1,103 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: black;
+}
+.header{
+  width: 100%;
+  height: auto;
+}
+
+.main {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+.section-1 {
+overflow: hidden;
+padding: 50px;
+background-color: black;
+}
+.texto-principal {
+  width: 45%;
+  float: left;
+  padding: 30px 10px 30px 30px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+#nombre {
+  font-weight: bolder;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.img-principal {
+  width: 50%;
+  height: auto;
+  float: left;
+  overflow: hidden;
+  margin:0px auto;
+	text-align:center;
+}
+.foto-1{
+  height: auto;
+  width: 400px;
+  vertical-align:middle;
+}
+.titulo_header {
+  text-align: center;
+  background-color: black;
+  color: #FFFFFF;
+  padding: 10px;
+  font-size: 20px;
+}
+.caracts {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  background-color: rgb(65, 65, 65);
+  overflow: hidden;
+  padding:50px 0px;
+  color: #FFFFFF;
+}
+.caracts h2 {
+  font-size: 40px;
+  font-family: 'Raleway', sans-serif;
+  padding: 15px;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+.icondiv {
+  float: left;
+  width: 33%;
+  font-size: 24px;
+}
+.icondiv i {
+margin-bottom: 10px;
+}
+.foto-gallery{
+  height: auto;
+  padding: 60px;
+}
+.foto-gallery img{
+  width: 100%;
+  padding: 10px; 
+}
+.img-g {
+  height: 225px;
+  overflow: hidden;
+  width: 33%;
+  display: inline-block;
+}
+.footer{
+  height: 3em;
+  line-height: 3em;
+  padding: 10px;
+  background: #1E1A13 0% 0% no-repeat padding-box;
+  opacity: 0.80;
+  text-align: center;
+  font-weight: 900;
+}
+.footer a {
+  font: normal normal 300 15px/24px Raleway;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+}

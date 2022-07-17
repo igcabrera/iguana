@@ -1,0 +1,21 @@
+
+@media (max-width: 900px) {
+    
+.texto-principal {
+    width: 91%;
+    text-align: center;
+}
+.img-principal{
+    width: 100%;
+}
+.img-g {
+    width: 100%;
+    height: auto;
+}
+.icondiv{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+}
+  
